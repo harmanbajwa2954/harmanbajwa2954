@@ -1,6 +1,7 @@
-<!-- <p align"center"> -->
-<!--   <img width="100%" src="https://github.com/harmanbajwa2954/harmanbajwa2954/blob/main/banner.png" alt="Harmanpreet Singh - Developer"> -->
-<!-- </p> -->
+
+  <p align="center">
+  <img src="./banner.png" alt="Harmanpreet Singh Banner" />
+</p>
 
 <h1 align="center"> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
@@ -12,7 +13,7 @@
 </p>
 
 <div align="center" size="20px"> 
-Hi! My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :smile:
+My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :smile:
 </div>
 
 ---
@@ -45,7 +46,7 @@ Hi! My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profil
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
-<a href="https://www.linkedin.com/in/harmanpreet-singh2954"> 
+<a href="www.linkedin.com/in/harmanpreet-singh-804746273"> 
   <img width="32px" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a> 
 <a href="https://github.com/harmanbajwa2954"> 
@@ -54,16 +55,12 @@ Hi! My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profil
 
 ---
 
-<p>
-<a href="https://github.com/harmanbajwa2954">
-  <img src="https://activity-graph.herokuapp.com/graph?username=harmanbajwa2954&theme=tokyonight" alt="Harman's GitHub Activity Graph">
-</a>
-</p>
+<h2>GitHub Activity Graph</h2>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=harmanbajwa2954&show_icons=true&theme=tokyonight" alt="Harman's GitHub stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harmanbajwa2954&theme=tokyonight" alt="Harman's GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=harmanbajwa2954&show_icons=true&theme=tokyonight" alt="My GitHub stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harmanbajwa2954&theme=tokyonight" alt="My GitHub Streak"></td>
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanbajwa2954&theme=tokyonight" alt="Top Langs"></td>
@@ -73,3 +70,4 @@ Hi! My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profil
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
