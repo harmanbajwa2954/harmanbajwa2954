@@ -49,9 +49,14 @@ My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :s
 <a href="www.linkedin.com/in/harmanpreet-singh-804746273"> 
   <img width="32px" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a> 
+
+
 <a href="https://github.com/harmanbajwa2954"> 
   <img width="32px" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a> 
+<a href="https://x.com/HarmanBajwa2005"> 
+  <img width="32px" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+</a>
 
 ---
 
