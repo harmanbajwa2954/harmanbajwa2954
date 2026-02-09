@@ -1,8 +1,3 @@
-
-  <p align="center">
-  <img src="./banner.png" alt="Harmanpreet Singh Banner" />
-</p>
-
 <h1 align="center"> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
@@ -21,12 +16,10 @@ My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :s
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"> </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-- 🔭 I’m currently working on **Medicura – Appointment Booking System**  
-- 🌱 I’m currently learning **MERN Stack, Firebase & Cloud Tools**  
-- 👯 I’m looking to collaborate on **Web Development & Open Source Projects**  
-- 💬 Ask me about **JavaScript, React, Node.js, SQL**  
-- ⚡ Fun fact: I prefer **cinematic experience over high FPS gaming** 🎮  
-
+- 🔭 I’m currently working on **Untitled Machine Learning Project**  
+- 🌱 I’m currently learning **Python, Pandas, Machine Learning, Deep Learning, AI** 
+- 👯 I’m looking to collaborate on **Machine Learning and AI Projects**  
+- 💬 Ask me about **JavaScript, React, Node.js, SQL, Python**  
 ---
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
