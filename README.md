@@ -1,15 +1,11 @@
-<h1 align="center"> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A66C2&height=300&section=header&text=Software%20Developer%20%7C%20AI-ML%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20and%20Transforming%20Ideas%20into%20Digital%20Reality&descAlign=center&descAlignY=60)
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=harmanbajwa2954.harmanbajwa2954" alt="Profile views">
-<a href="https://github.com/harmanbajwa2954">
-  <img src="https://img.shields.io/github/followers/harmanbajwa2954?label=Follow&style=social" alt="Github">
-</a>
-</p>
+<!-- Animated Header -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=👋+Welcome+to+Harmanpreet+Singh's+GitHub+Profile;🚀+Software+Developer+%7C+AI%2FML+Engineer;💡+Building+Intelligent+Systems+%26+Solutions)
 
-<div align="center" size="20px"> 
-My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :smile:
-</div>
+<!-- Dynamic Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Full-Stack+Developer+%7C+AI%2FML+Engineer;🤖+Building+Intelligent+Systems;📊+Transforming+Data+into+Insights;☁️+Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -54,6 +50,11 @@ My name is <b>Harmanpreet Singh</b>. Thank you for visiting my GitHub Profile :s
 ---
 
 <h2>GitHub Activity Graph</h2>
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=harmanbajwa2954.harmanbajwa2954" alt="Profile views">
+<a href="https://github.com/harmanbajwa2954">
+  <img src="https://img.shields.io/github/followers/harmanbajwa2954?label=Follow&style=social" alt="Github">
+</a>
 
 <table>
   <tr>
